@@ -1,0 +1,24 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.search-header {
+  color: #252627;
+  font-family: 'Roboto';
+  font-size: 55px;
+}
+.searchBar-container {
+  display: flex;
+  justify-content: center;
+  background-color: #f1f5f9;
+}
+.search-bar {
+  border-radius: 8px;
+}
+.search-icon {
+  height: 40px;
+  width: 40px;
+}
